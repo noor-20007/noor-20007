@@ -31,7 +31,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/nour-ibrahim" target="_blank">
+  <a href="[https://linkedin.com/in/nour-ibrahim](https://www.linkedin.com/in/nour-ibrahim-a47604299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
