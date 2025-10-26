@@ -55,8 +55,8 @@
 
 ### 📊 GitHub Stats  
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-20007&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-20007&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=noor-20007&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=60" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-20007&layout=compact&theme=radical&hide_border=true&cache_seconds=60" height="165"/>
 </div>
 
 ---
