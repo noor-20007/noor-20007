@@ -66,12 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-20007&theme=radical&hide_border=true" alt="Nour Ibrahim's streak"/>
 </p>
 
----
-
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noor-20007&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
 
 ---
 
@@ -80,10 +74,5 @@
 
 ---
 
-### 🩷 Thanks for Visiting!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noor-20007/noor-20007/output/github-contribution-grid-snake.svg"
-       alt="snake animation"
-       width="80%"
-       style="border-radius:15px; box-shadow:0 0 20px rgba(255,105,180,0.4); margin-top:15px;">
-</p>
+### 🩷 Thanks for Visiting 💖!
+
