@@ -1,108 +1,124 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color:#e63946;">Nour Ibrahim Galal</span>
-</h1>
-<h3 align="center">
-  💻 Passionate Full Stack Developer | PHP & JavaScript Enthusiast from Egypt 🇪🇬
-</h3>
+# 💫 Hi, I'm Nour Ibrahim Galal
 
-<p align="center">
-  <a href="https://github.com/noor-20007">
-    <img src="https://komarev.com/ghpvc/?username=noor-20007&label=Profile%20views&color=4169e1&style=flat-square" alt="noor-20007" />
-  </a>
-  <a href="https://github.com/noor-20007">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/noor-20007?style=flat-square&color=4169e1&logo=github"/>
-  </a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/noor-20007/noor-20007?style=flat-square&color=4169e1"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/noor-20007"
-       alt="Nour Ibrahim Galal - Full Stack Developer"
-       width="180"
-       style="border-radius:50%; border: 4px solid #4169e1; box-shadow: 0 0 35px rgba(65, 105, 225, 0.7); margin-top:15px;"/>
-</p>
-
----
-
-## 🌟 About Me
-
-- 🌱 **Currently Mastering:** Advanced **Node.js, Express, and REST APIs** development.
-- 🔭 **Looking to Contribute:** Open Source Web Projects, focusing on scalability and clean architecture.
-- 🤝 **Seeking Mentorship:** Advanced **Laravel Projects & API Integrations**.
-- 💬 **Ask Me About:** PHP, JavaScript, React, Laravel, and performance optimization.
-- 📫 **Reach Me:** [nour.ibrahim.dev@gmail.com](mailto:nour.ibrahim.dev@gmail.com)
-- ⚡ **Fun Fact:** I approach coding challenges with the same enthusiasm as finding a perfect, obscure meme.
-
----
-
-## 🛠️ Tech Stack & Tools (The Powerhouse)
-
-<p align="center">
-    ### Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" style="margin-right: 5px;"/>
+<div align="center">
   
-  ### Backend & Database
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql" style="margin-right: 5px;"/>
-
-  ### Tools & Others
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,python" />
-</p>
-
----
-
-## 🚀 My Recent Projects (Showcase Your Best Work)
-
-* [**E-Commerce API**](LINK_TO_REPO) - A robust RESTful API built with Node.js and Express.
-* [**Social Media Dashboard**](LINK_TO_REPO) - A dynamic frontend application using React and custom animations.
-* [**Laravel Booking System**](LINK_TO_REPO) - A full-stack application demonstrating advanced Eloquent and API integration.
-
-<p align="center">
-    <a href="https://github.com/noor-20007?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/View%20All%20My%20Work%20%E2%86%92-0077B6?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-    </a>
-</p>
-
----
-
-## 📊 GitHub Analytics (The Metrics)
-
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=noor-20007&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&hide_border=true&cache_seconds=60" alt="Nour GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-20007&layout=compact&theme=gotham&hide_border=true&cache_seconds=60" alt="Top Languages" height="180"/>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;PHP+%26+Laravel+Enthusiast+%F0%9F%9A%80;React+%26+JavaScript+Lover+%E2%9A%A1;Always+Learning+New+Things+%F0%9F%8C%B1)
+  
+  <img src="https://komarev.com/ghpvc/?username=noor-20007&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  
 </div>
 
-### 🔥 Streak (Keep the Fire Going)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noor-20007&theme=gotham&hide_border=true" alt="Nour Ibrahim's streak"/>
-</p>
+---
+
+## 🌸 About Me
+
+```javascript
+const nour = {
+    location: "Egypt 🇪🇬",
+    role: "Full Stack Developer",
+    currentFocus: ["Node.js", "Express", "REST APIs"],
+    openTo: "Open Source Web Projects",
+    askMeAbout: ["PHP", "JavaScript", "React", "Web Animations"],
+    funFact: "I think I'm funny 😄",
+    reachMe: "nour.ibrahim.dev@gmail.com"
+};
+```
+
+- 🌱 Currently mastering **Node.js, Express & REST APIs**
+- 👯 Open to collaborate on **Open Source Web Projects**
+- 🤝 Seeking help with **Advanced Laravel & API Integrations**
+- 💡 Passionate about creating **beautiful & functional web experiences**
+- ⚡ Fun fact: **Debugging is my cardio!**
 
 ---
 
-## 💬 Connect with Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nour-ibrahim-a47604299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nour.ibrahim.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/noor-20007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-ibrahim-a47604299)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nour.ibrahim.dev@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noor-20007)
+  
+</div>
 
 ---
 
-### 💡 Wisdom for the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"/>
-</p>
+## 💻 Tech Stack
 
-<p align="center">
-  **Thanks for stopping by! Let's build something amazing together.** 💖
-</p>
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noor-20007&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=noor-20007&theme=radical&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noor-20007&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=noor-20007&theme=redical&hide_border=true&area=true" />
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=noor-20007&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Master **Node.js & Express** for backend development
+- 📚 Build **5+ open source projects** this year
+- 🎨 Improve **UI/UX design** skills
+- 🌍 Contribute to **international open source communities**
+- 💼 Land an **awesome developer role**
+
+---
+
+<div align="center">
+  
+  ### 💖 Thanks for visiting! Let's build something amazing together! 🚀
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
